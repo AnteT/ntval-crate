@@ -1,0 +1,8 @@
+[package]
+name = "ntval-crate"
+version = "0.1.0"
+edition = "2021"
+authors = "Ante Tonkovic-Capin"
+description = "Rust crate for improved dbg print to stdout with name: type = value format"
+
+[dependencies]
